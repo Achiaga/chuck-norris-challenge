@@ -1,4 +1,4 @@
-# Oneflow - FrontEnd Assignment
+# FrontEnd Assignment
 
 Alfonso Spike to test PR merge permissions
 
