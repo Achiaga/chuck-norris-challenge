@@ -27,7 +27,7 @@ git clone https://github.com/Achiaga/chuck-norris-challenge.git
 2. Change the working directory
 
 ```bash
-cd frontend-assignment-alfonso/
+cd chuck-norris-challenge/
 ```
 
 3. Install dependencies
