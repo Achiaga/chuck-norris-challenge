@@ -21,7 +21,7 @@ Create a web-application using React as presented below.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Achiaga/Frontend-Interview-Questions.git
+git clone https://github.com/Achiaga/chuck-norris-challenge.git
 ```
 
 2. Change the working directory
