@@ -1,8 +1,6 @@
-# FrontEnd Assignment
+# Junior-Mid Frontend Assignment-Challenge
 
-Alfonso Spike to test PR merge permissions
-
-Create a web-application using React as presented below.
+It is a good project. It got me an offer for a junior-mid frontend position.
 
 ## 💻 Built with
 
